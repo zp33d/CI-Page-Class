@@ -1,2 +1,2 @@
 # CI-Page-Class
-Simple Page builder Class for Codeigniter
+Simple, light Template builder Class for Codeigniter
