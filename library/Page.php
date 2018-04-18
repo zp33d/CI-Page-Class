@@ -20,7 +20,6 @@ class Template {
 	private $inline_css;
 	private $html_metas;
 	private $parse_delimiters;
-	private $enable_benchmarking;
 
 	public function __construct()
 	{
